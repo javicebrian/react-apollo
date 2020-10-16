@@ -1,5 +1,10 @@
 run the demo here https://react-apollo-tau.vercel.app/
 
+As part of our interview process we’d like you to do an exercise for us in React and TypeScript. As a guide aim to do this within 2 hours.
+
+Once submitted, we’ll review the test and if successful, we will invite you to a second interview (remote via zoom) to discuss the test in more detail.
+
+Please use any tools you feel are relevant for JS/React as we’d like to see a production-ready app (styling not important but would be nice to see some CSS/Material) – something simple but something that is ready to go live. Here are the requirements:
 
 ✅         Create a form component with a single text input and a submit button.
 
